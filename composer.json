@@ -1,0 +1,14 @@
+{
+    "name": "aya/agent",
+    "authors": [
+        {
+            "name": "aya hamed",
+            "email": "ayahamedzaki@gmail.com"
+        }
+    ],
+    "require": {
+        "openai-php/client": "0.1.0",
+        "phpmailer/phpmailer": "^7.0",
+        "vlucas/phpdotenv": "^5.6"
+    }
+}

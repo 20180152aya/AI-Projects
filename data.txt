@@ -1,0 +1,53 @@
+=====================================================
+OFFICES & DEPARTMENTS
+=====================================================
+1. Executive Suite: 5th Floor. CEO: Mr. Jonathan Wick.
+2. Engineering & Development: 4th Floor, North Wing. Lead Architect: Dr. Elena Rodriguez.
+3. Human Resources (HR): 2nd Floor, Suite 210. Director: Ms. Jennifer Lopez.
+4. Finance & Legal: 3rd Floor, South Wing. CFO: Mr. Robert Downey.
+5. Global Support Center: Ground Floor (Available 24/7).
+
+=====================================================
+TECHNICAL INFRASTRUCTURE
+=====================================================
+- Main Database Server: db-master.gts-cloud.com (IP: 10.0.0.50)
+- Secondary Backup: db-backup.gts-cloud.com (IP: 10.0.0.51)
+- Internal Wi-Fi SSID: GTS_Staff_HighSpeed
+- Wi-Fi Password: ComplexPassword#2025!
+- Version Control: Enterprise GitHub (internal.github.gts.com)
+- Default SSH Port: 2202
+
+=====================================================
+EMPLOYEE POLICIES & BENEFITS
+=====================================================
+- Office Hours: 08:30 AM to 05:30 PM (Sunday to Thursday).
+- Flexible Hours: Employees can start between 07:00 AM and 10:00 AM.
+- Work from Home (WFH): Fridays are mandatory WFH for all staff. Developers get an additional WFH day on Mondays.
+- Dress Code: Business Casual (Mon-Wed), Casual (Thu), Formal for Client Meetings.
+- Insurance Provider: BlueShield International. Policy ID: BSI-776655.
+- Annual Bonus: Distributed every year on January 15th based on performance.
+
+=====================================================
+ACTIVE PROJECTS 2025
+=====================================================
+- Project "SkyNet": Migrating all local servers to AWS Lambda and S3.
+- Project "Neural-Link": Integrating  API into the company's internal CRM system.
+- Project "SecurePath": Implementing Zero-Trust security across all remote access points.
+
+=====================================================
+CONTACT DIRECTORY
+=====================================================
+- General Inquiries: hello@gts-global.com
+- HR Queries: hr-support@gts-global.com
+- Technical Helpdesk: helpdesk.gts.local (Internal) or +1-800-GTS-HELP.
+- Emergency Security: Extension 911 from any office phone.
+
+=====================================================
+FREQUENTLY ASKED QUESTIONS (FAQ)
+=====================================================
+Q: How do I book a meeting room?
+A: Use the "GTS Scheduler" app on the internal portal at least 1 hour in advance.
+Q: Is there a cafeteria?
+A: Yes, located on the Rooftop (6th floor). Breakfast is free for all employees.
+Q: What is the guest Wi-Fi?
+A: SSID: GTS_Guest (No password required, but requires email registration).
